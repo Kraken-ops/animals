@@ -1,0 +1,44 @@
+[
+    {
+        "species": "Big Cats",
+        "name": "Tiger",
+        "size": 10,
+        "location": "Asia",
+        "image": "images/tiger.jpg"
+    },
+    {
+        "species": "Big Cats",
+        "name": "Lion",
+        "size": 8,
+        "location": "Africa",
+        "image": "images/lion.jpg"
+    },
+    {
+        "species": "Big Cats",
+        "name": "Cheetah",
+        "size": 5,
+        "location": "Africa",
+        "image": "images/cheetah.jpg"
+    },
+    {
+        "species": "Big Cats",
+        "name": "Leopard",
+        "size": 5,
+        "location": "Africa and Asia",
+        "image": "images/leopard.jpg"
+    },
+    {
+        "species": "Big Cats",
+        "name": "Caracal",
+        "size": 3,
+        "location": "Africa",
+        "image": "images/caracal.jpg"
+    },
+    {
+        "species": "Big Cats",
+        "name": "Jaguar",
+        "size": 5,
+        "location": "Amazon",
+        "image": "images/jaguar.jpg"
+    }
+]

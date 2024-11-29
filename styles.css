@@ -1,0 +1,21 @@
+.image-container img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px; 
+}
+
+.image-container img:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.bold-italic-blue {
+    font-weight: bold;
+    font-style: italic;
+    color: blue;
+}
